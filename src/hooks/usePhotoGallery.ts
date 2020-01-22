@@ -9,7 +9,6 @@ import axios from 'axios';
 const image2base64 = require('base64-img');
 const PHOTO_STORAGE = "photos";
 var ip = 'http://54.208.43.125:5000/';
-// ip = 'http://localhost:5000/';
 
 export function usePhotoGallery() {
 
