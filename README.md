@@ -26,3 +26,4 @@ Read more about technologies that we used in this project at:
 - https://medium.com/@khelif96/uploading-files-from-a-react-app-to-aws-s3-the-right-way-541dd6be689
 - https://aws.amazon.com/s3/
 - https://aws.amazon.com/ec2/
+- https://www.npmjs.com/package/base64-img
